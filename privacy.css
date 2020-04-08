@@ -1,0 +1,112 @@
+body {
+    margin: 0 auto;
+    padding: 0%;
+    width: 100%;
+    font-family: 'Lora', serif;
+    background-color: rgb(248, 248, 248);
+    overflow-x: hidden
+}
+
+/*navigation sstarts here*/
+
+.navbar-brand {
+    font-size: 28px;
+    font-weight: 700;
+  }
+
+.nav-link {
+    font-size: 16px;
+    margin: 15px;
+    color: #000000 !important;
+}
+
+.nav-link:hover {
+    color: #626262 !important;
+}
+
+.active .nav-link {
+    color: #626262 !important;
+}
+
+.menu-right-btn {
+    padding: 13px 46px;
+    margin-right: 4%;
+    background-color: transparent;
+    transition: all 300ms esae-in;
+}
+
+.menu-right-btn:hover {
+    color: #fff;
+    background-color: #382944;
+}
+
+/*main starts here*/
+
+.container-policy {
+    padding: 30px 3%;
+    font-size: 15px;
+}
+
+h2 {
+    font-size: 27px;
+}
+
+/*footer starts here*/
+
+footer {
+background-color: #2e2238;
+color:#ffff;
+padding: 60px 10px;
+}
+
+.container-foot {
+border-bottom: 1px solid #ffffff;
+}
+
+h3 {
+font-size: 22px;
+line-height: 25px;
+margin-left: -11%;
+margin-bottom: 3%;
+}
+
+.copywrite {
+text-align: center;
+padding-top: 20px;
+}
+
+.para-foot {
+margin-left: -11%;
+font-size: 16px;
+}
+
+.terms a {
+text-decoration: none;
+color: #fff;
+padding-top: 6%;
+margin-right: 3%;
+}
+
+
+.social-icons-foot {
+padding: 0px 10px;
+margin-top: 15px;
+}
+
+.social-icons-foot  a {
+text-decoration: none;
+font-size: 20px;
+color: #dfbac0; 
+
+}
+
+.social-icons-foot  a:hover {
+color:#fff;
+}
+
+.social-icons-foot i {
+margin: 0px 20px;
+}
+
+
+
